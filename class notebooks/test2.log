@@ -1,0 +1,4 @@
+2022-12-19 16:37:43,112 INFO this is my info log
+2022-12-19 16:37:43,112 WARNING this is my warniing log 
+2022-12-19 16:37:43,113 DEBUG this is my debug log 
+2022-12-19 16:37:43,113 ERROR this is my error log

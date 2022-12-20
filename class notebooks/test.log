@@ -1,0 +1,10 @@
+WARNING:root:this is my warniing log 
+ERROR:root:this is my error log
+WARNING:root:this is my warniing log 
+ERROR:root:this is my error log
+ERROR:root:Errog has happend 
+ERROR:root:Exception occured division by zero
+Traceback (most recent call last):
+  File "/var/folders/4q/1m012dp12171snbzxvvcncdr0000gn/T/ipykernel_45676/3472579529.py", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
