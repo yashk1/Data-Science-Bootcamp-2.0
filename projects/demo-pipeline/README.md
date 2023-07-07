@@ -19,3 +19,9 @@ Development -> QA -> Testing -> Deployment
 # Machine Learning Dev
 
 CI and CD : Continuous integreation and Continuous deployment
+
+# Devops vs ML-ops
+
+Developing the project and deploy it
+
+ML-ops is the same thing wrt Machine learning projects
